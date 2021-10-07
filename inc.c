@@ -1,4 +1,4 @@
-#include "helloinc.h"
+#include "inc.h"
 
 void hello(){
     printf("Hello, World!\n");
